@@ -20,7 +20,7 @@
 I'm a passionate **Software Engineer** and **AI Enthusiast** dedicated to crafting innovative solutions and pushing the boundaries of technology. I specialize in building scalable web applications and intelligent systems powered by AI-driven technologies.
 
 - 🔭 Currently working on **Full Stack Development** and **AI Integration** projects
-- 🌱 Learning and exploring **Advanced AI/ML** technologies
+- 🌱 Learning and exploring **Advanced AI Stack** technologies
 - 👯 Open to collaborating on **Open Source Projects** and **Innovative Ideas**
 - 💬 Ask me about **React**, **Node.js**, **Python**, **AWS**, **AI Integration**
 - 📫 How to reach me: **abdulbasitkhan145.45@gmail.com**
@@ -60,32 +60,18 @@ I'm a passionate **Software Engineer** and **AI Enthusiast** dedicated to crafti
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
-### AI & ML
+### AI Stack
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![OpenRouter](https://img.shields.io/badge/OpenRouter-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Weaviate](https://img.shields.io/badge/Weaviate-1C3C3C?style=for-the-badge&logo=vector-database&logoColor=white)
+![Inngest](https://img.shields.io/badge/Inngest-412991?style=for-the-badge&logo=workflow&logoColor=white)
 
 ### Tools & Others
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Abdul Basit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdulbasit145&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=FF6B6B)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abdulbasit145&theme=radical&hide_border=true&background=0D1117&ring=FF6B6B&fire=FF6B6B&currStreakLabel=FF6B6B)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulbasit145&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B)
-
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=abdulbasit145&theme=redical&hide_border=true&bg_color=0D1117&color=FF6B6B&line=FF6B6B&point=FFFFFF)
-
-</div>
 
 ---
 
@@ -143,7 +129,7 @@ HR consulting platform with comprehensive management features.
 **Bachelor of Science in Computer Science**  
 *[Your University]* | *[Year]*
 
-**Relevant Coursework:** Data Structures, Algorithms, Database Systems, Software Engineering, Web Development, AI/ML
+**Relevant Coursework:** Data Structures, Algorithms, Database Systems, Software Engineering, Web Development, AI Stack
 
 ---
 
@@ -153,16 +139,6 @@ HR consulting platform with comprehensive management features.
 - 🏅 AI Integration Specialist
 - 🏅 Full Stack Development Expert
 - 🏅 AWS Cloud Solutions Architect
-
----
-
-## 📈 Coding Activity
-
-<div align="center">
-
-![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=abdulbasit145&theme=redical&hide_border=true&bg_color=0D1117&color=FF6B6B&line=FF6B6B&point=FFFFFF&area=true)
-
-</div>
 
 ---
 
@@ -200,11 +176,11 @@ I'm always open to discussing new projects, creative ideas, or opportunities to 
 
 ---
 
-## 🎯 Goals for 2025
+## 🎯 Goals for 2026
 
 - [ ] Contribute more to Open Source
 - [ ] Build and launch 3+ innovative projects
-- [ ] Master advanced AI/ML technologies
+- [ ] Master advanced AI Stack technologies
 - [ ] Share knowledge through blog posts and tutorials
 - [ ] Help other developers grow in their careers
 
