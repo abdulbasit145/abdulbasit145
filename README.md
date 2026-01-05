@@ -127,7 +127,7 @@ HR consulting platform with comprehensive management features.
 ## 🎓 Education
 
 **Bachelor of Science in Computer Science**  
-*[Your University]* | *[Year]*
+*Bahria University* | *2024*
 
 **Relevant Coursework:** Data Structures, Algorithms, Database Systems, Software Engineering, Web Development, AI Stack
 
