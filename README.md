@@ -1,207 +1,77 @@
 <div align="center">
 
-# 👋 Hi, I'm Abdul Basit
+# Abdul Basit
+**Software Engineer (Backend/Full Stack) • AI-powered workflows • Cloud-native systems**
 
-### 🚀 Full Stack Developer & AI Engineer | Building Scalable Solutions Worldwide
+Islamabad, Pakistan • Open to Worldwide Remote
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-www.abdulbasit.cloud-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.abdulbasit.cloud)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdul%20Basit-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdul-basit-dev)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdulbasitkhan145.45@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-abdulbasit145-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abdulbasit145)
-
-📍 **Location:** Islamabad, Pakistan | 🌍 **Available:** Worldwide Remote Projects
-
-</div>
-
----
-
-## 👨‍💻 About Me
-
-I'm a passionate **Software Engineer** and **AI Enthusiast** dedicated to crafting innovative solutions and pushing the boundaries of technology. I specialize in building scalable web applications and intelligent systems powered by AI-driven technologies.
-
-- 🔭 Currently working on **Full Stack Development** and **AI Integration** projects
-- 🌱 Learning and exploring **Advanced AI Stack** technologies
-- 👯 Open to collaborating on **Open Source Projects** and **Innovative Ideas**
-- 💬 Ask me about **React**, **Node.js**, **Python**, **AWS**, **AI Integration**
-- 📫 How to reach me: **abdulbasitkhan145.45@gmail.com**
-- ⚡ Fun fact: I love solving complex problems and building things that make a difference
-
----
-
-## 🛠️ Tech Stack & Skills
-
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-
-### Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-
-### Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-
-### AI Stack
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![OpenRouter](https://img.shields.io/badge/OpenRouter-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Weaviate](https://img.shields.io/badge/Weaviate-1C3C3C?style=for-the-badge&logo=vector-database&logoColor=white)
-![Inngest](https://img.shields.io/badge/Inngest-412991?style=for-the-badge&logo=workflow&logoColor=white)
-
-### Tools & Others
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
----
-
-## 🚀 Featured Projects
-
-### 💼 wefiApp - Fintech MVP
-A fintech application helping users achieve financial goals through AI-powered insights, transaction tracking, and intelligent planning.
-
-**Tech Stack:** Django, FastAPI, OpenAI, PostgreSQL, REST APIs, Microservices
-
-[🌐 Live Demo](https://www.wefiapp.com/) | [📱 Portfolio](https://www.abdulbasit.cloud/projects/wefiapp)
-
-### 🤖 Outreach Platform
-Event-driven outreach platform with AI agents, intelligent contact management, and automated workflow orchestration.
-
-**Tech Stack:** Node.js, Inngest, Event-Driven Architecture, AI Agents, Email Automation
-
-[📱 Portfolio](https://www.abdulbasit.cloud/projects/prospectflow)
-
-### 🏢 Tabashir - HR Consulting
-HR consulting platform with comprehensive management features.
-
-**Tech Stack:** React, Node.js, PostgreSQL, AWS
-
-[📱 Portfolio](https://www.abdulbasit.cloud/projects/tabashir)
-
----
-
-## 💼 Professional Experience
-
-### 💻 Software Engineer @ Cache Cloud INC
-**April 2025 - Present** | Islamabad, Pakistan
-
-- Building scalable microservices using AWS (Lambda, API Gateway, AppSync, S3, Cognito)
-- Designing and developing new portals and user interfaces
-- Collaborating with US-based teams on product development
-- Ensuring system scalability and performance
-
-**Tech Stack:** Python, Node.js, Microservices, AWS, Full Stack
-
-### 👨‍💻 Associate Software Engineer @ CodeFulcrum
-**July 2024 - April 2025** | Lahore, Pakistan
-
-- Built full-stack applications using React, Django, and Django REST Framework
-- Worked on production projects with REST APIs and Web Sockets
-- Integrated Weaviate vector database for semantic search capabilities
-- Developed learning projects: Order Management System, Chat Application, OAuth Service
-
-**Tech Stack:** Python, Django, React, REST APIs, Web Sockets, GraphQL, Weaviate
-
----
-
-## 🎓 Education
-
-**Bachelor of Science in Computer Science**  
-*Bahria University* | *2024*
-
-**Relevant Coursework:** Data Structures, Algorithms, Database Systems, Software Engineering, Web Development, AI Stack
-
----
-
-## 🏆 Achievements & Certifications
-
-- 🏅 Building scalable microservices architectures
-- 🏅 AI Integration Specialist
-- 🏅 Full Stack Development Expert
-- 🏅 AWS Cloud Solutions Architect
-
----
-
-## 🤝 Let's Connect!
-
-I'm always open to discussing new projects, creative ideas, or opportunities to be part of your visions.
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-www.abdulbasit.cloud-FF6B6B?style=for-the-badge)](https://www.abdulbasit.cloud)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Abdul%20Basit-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/abdul-basit-dev)
-[![Email](https://img.shields.io/badge/📧_Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail)](mailto:abdulbasitkhan145.45@gmail.com)
-[![GitHub](https://img.shields.io/badge/💻_GitHub-abdulbasit145-181717?style=for-the-badge&logo=github)](https://github.com/abdulbasit145)
+<a href="https://www.abdulbasit.cloud"><strong>Portfolio</strong></a> ·
+<a href="https://www.linkedin.com/in/abdul-basit-dev"><strong>LinkedIn</strong></a> ·
+<a href="mailto:abdulbasitkhan145.45@gmail.com"><strong>Email</strong></a> ·
+<a href="https://github.com/abdulbasit145"><strong>GitHub</strong></a>
 
 </div>
 
 ---
 
-## 💡 What I'm Working On
+## About
+I build **production-grade backend systems** and **AI-enabled workflows** — APIs, microservices, event-driven orchestration, and scalable data systems. I care about **clean architecture**, **reliability**, and **maintainable code**.
 
-- 🔨 Building scalable full-stack applications
-- 🤖 Integrating AI capabilities into web applications
-- ☁️ Exploring advanced AWS services and cloud architectures
-- 📚 Contributing to open-source projects
-- 🎯 Creating innovative solutions for real-world problems
-
----
-
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-*Coming soon - Check my [portfolio](https://www.abdulbasit.cloud) for updates!*
+- Backend: REST / GraphQL APIs, microservices, async processing, integrations  
+- AI: LLM workflows (agents, RAG), tool calling, vector search  
+- Cloud: AWS serverless + cloud-native delivery
 
 ---
 
-## 🎯 Goals for 2026
-
-- [ ] Contribute more to Open Source
-- [ ] Build and launch 3+ innovative projects
-- [ ] Master advanced AI Stack technologies
-- [ ] Share knowledge through blog posts and tutorials
-- [ ] Help other developers grow in their careers
+## Current Focus
+- Designing **scalable microservices** and improving **observability & reliability**
+- Building **event-driven AI workflows** (routing, tool usage, automation)
+- Strengthening **system design** fundamentals (performance, scaling, tradeoffs)
 
 ---
 
-<div align="center">
-
-### ⚡ Quick Stats
-
-![Profile Views](https://komarev.com/ghpvc/?username=abdulbasit145&color=FF6B6B&style=for-the-badge&label=Profile+Views)
-
-**Thanks for visiting!** 😊  
-*Feel free to fork, star, or contribute to any of my projects!*
-
-⭐️ From [abdulbasit145](https://github.com/abdulbasit145)
-
-</div>
+## Tech Stack (high-signal)
+**Languages:** Python, TypeScript/JavaScript  
+**Backend:** Django REST Framework, FastAPI, Node.js, Express, GraphQL (Apollo / AWS AppSync)  
+**AI:** OpenAI, LangChain, OpenRouter, Inngest (event-driven workflows), Weaviate, RAG  
+**Data:** PostgreSQL, MySQL, MongoDB, Redis  
+**Cloud/DevOps:** AWS (Lambda, API Gateway, AppSync, Cognito, S3, RDS), Docker, CI/CD (Jenkins, GitHub Actions)
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
-</p>
+## Featured Projects
+### wefiApp — Fintech MVP
+AI-assisted fintech product focused on **transaction tracking**, **financial insights**, and **goal planning**.  
+**Stack:** Django, FastAPI, PostgreSQL, OpenAI, REST APIs, Microservices  
+Links: https://www.wefiapp.com • https://www.abdulbasit.cloud/projects/wefiapp
 
+### ProspectFlow — Outreach Platform (Event-driven + AI)
+Outreach platform with **AI agents**, **workflow orchestration**, and **automated email operations**.  
+**Stack:** Node.js, Inngest, Event-driven architecture, AI agents  
+Link: https://www.abdulbasit.cloud/projects/prospectflow
+
+### Tabashir — HR Consulting Platform
+Management platform for HR consulting operations.  
+**Stack:** React, Node.js, PostgreSQL, AWS  
+Link: https://www.abdulbasit.cloud/projects/tabashir
+
+---
+
+## Experience
+- **Software Engineer — Cache Cloud INC (Apr 2025 – Present)**  
+  Building backend services & APIs, contributing to AWS microservices and reliability improvements.
+- **Associate Software Engineer — CodeFulcrum (Jul 2024 – Apr 2025)**  
+  Full-stack delivery, integrations, production bug-fixing, and collaboration across teams.
+- **Fellow — Arbisoft (Aug 2023 – Nov 2023)**  
+  Python + DRF training, Git workflows, and mentored backend project development.
+
+---
+
+## Education
+**BS Computer Science — Bahria University (2020 – 2024)**
+
+---
+
+## Contact
+If you’re building something serious and need help with **backend systems, integrations, or AI workflows**, reach out:  
+📩 abdulbasitkhan145.45@gmail.com
